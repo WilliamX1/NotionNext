@@ -9,7 +9,7 @@ const BLOG = {
   LANG: 'zh-CN', // e.g 'zh-CN','en-US'  see /lib/lang.js for more.
   SINCE: 2022, // e.g if leave this empty, current year will be used.
   APPEARANCE: 'auto', // ['light', 'dark', 'auto'], // light 日间模式 ， dark夜间模式， auto根据时间和主题自动夜间模式
-
+ 
   AUTHOR: 'William', // 作者
   BIO: '学无止境, 天道酬勤', // 作者简介
   LINK: 'https://blog.treasuredong.com', // 网站地址
